@@ -1,9 +1,7 @@
-#5540443440:AAEiCxW3OzAdA0ykM479N7p8PgfNMbtf7hA
-
 import telebot
 from telebot import types
 
-token = 'number token from tg'
+token = 'number token from tg bot father'
 bot = telebot.TeleBot(token)
 
 
